@@ -1,0 +1,5 @@
+/home/isaac/Music/Cpp_Calculator-main/build/CMakeFiles/Calculator.dir
+/home/isaac/Music/Cpp_Calculator-main/build/CMakeFiles/edit_cache.dir
+/home/isaac/Music/Cpp_Calculator-main/build/CMakeFiles/rebuild_cache.dir
+/home/isaac/Music/Cpp_Calculator-main/build/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+/home/isaac/Music/Cpp_Calculator-main/build/CMakeFiles/Calculator_autogen.dir
